@@ -9,7 +9,7 @@
 - **ANSI Compatibility:** Full ANSI escape sequence support.
 - **Color Depth:** `xterm-256color` compatibility.
 - **Directory Tracking:** OSC 7 working directory tracking.
-- **Clipboard Integration:** Selection and copy/paste (`Ctrl`+`Shift`+`C` / `Ctrl`+`Shift`+`V`)[cite: 1].
+- **Clipboard Integration:** Selection and copy/paste (`Ctrl`+`Shift`+`C` / `Ctrl`+`Shift`+`V`)
 - **History Retention:** Built-in scrollback buffer.
 - **Customizable:** Configurable colors and font options.
 
